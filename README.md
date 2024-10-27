@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabari Vel</h1>
-<h3 align="center">Full Stack Developer || Aspiring Data Analyst</h3>
-
-- 🔭 I’m currently working on **Freelancer in Full Stack Development**
-
-- 🌱 I’m currently learning **Data Analyst Role**
-
-- 👯 I’m looking to collaborate on **Full Stack Development Projects**
-
-- 💬 Ask me about **Frontend Development & Backend Development**
+<h3 align="center">Full Stack Developer</h3>
 
 - 📫 How to reach me **sabarivel0928@gmail.com**
 
