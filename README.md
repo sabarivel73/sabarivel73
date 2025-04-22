@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sabari Vel</h1>
-<br>
 <h1 align="center">Software Developer</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
