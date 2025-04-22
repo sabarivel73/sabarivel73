@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabari Vel</h1>
-<h3 align="center">Software Developer & Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **sabarivel0928@gmail.com**
 
