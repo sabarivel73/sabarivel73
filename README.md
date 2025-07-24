@@ -2,7 +2,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://sabarivel73.github.io/Portfolio/" target="blank">
-    <img align="center" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-portfolio-web-and-seo-flatart-icons-outline-flatarticons.png" alt="portfolio" height="30" width="40" />
+    <img align="center" src="https://link.to/your-chosen-icon.svg" alt="Portfolio" height="30" width="40"/>
   </a>
 <a href="https://linkedin.com/in/sabari-vel-706939313" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabari-vel-706939313" height="30" width="40" />
